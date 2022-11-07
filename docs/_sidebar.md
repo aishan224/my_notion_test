@@ -1,6 +1,6 @@
 - 目录
-- [HTML](DOCS/HTML)
-- [CSS](DOCS/CSS)
-- [JavaScript](DOCS/JavaScript)
-- [MongoDB](DOCS/MongoDB)
-- [NodeJS](DOCS/NodeJS)
+- [HTML](notions/HTML)
+- [CSS](notions/CSS)
+- [JavaScript](notions/JavaScript)
+- [MongoDB](notions/MongoDB)
+- [NodeJS](notions/NodeJS)
