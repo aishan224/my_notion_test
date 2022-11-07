@@ -7,8 +7,8 @@
 ## 目录
 |目录 | 
 |-----|
-|[HTML](https://aishan224.github.io/my_notion_test/#/notions/HTML)|
-|[CSS](https://aishan224.github.io/my_notion_test/#/notions/CSS)|
-|[JavaScript](https://aishan224.github.io/my_notion_test/#/notions/JavaScript)|
-|[MongoDB](https://aishan224.github.io/my_notion_test/#/notions/MongoDB)|
-|[NodeJS](https://aishan224.github.io/my_notion_test/#/notions/NodeJS)|
+|[1. HTML](https://aishan224.github.io/my_notion_test/#/notions/HTML)|
+|[2. CSS](https://aishan224.github.io/my_notion_test/#/notions/CSS)|
+|[3. JavaScript](https://aishan224.github.io/my_notion_test/#/notions/JavaScript)|
+|[4. MongoDB](https://aishan224.github.io/my_notion_test/#/notions/MongoDB)|
+|[5. NodeJS](https://aishan224.github.io/my_notion_test/#/notions/NodeJS)|
