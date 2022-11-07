@@ -10,5 +10,5 @@
 |[HTML](https://aishan224.github.io/my_notion_test/#/DOCS/HTML)|
 |[CSS](https://aishan224.github.io/my_notion_test/#/DOCS/CSS)|
 |[JavaScript](https://aishan224.github.io/my_notion_test/#/DOCS/JavaScript)|
-|[MongoDB]((https://aishan224.github.io/my_notion_test/#/DOCS/MongoDB))|
-|[NodeJS]((https://aishan224.github.io/my_notion_test/#/DOCS/NodeJS))|
+|[MongoDB](https://aishan224.github.io/my_notion_test/#/DOCS/MongoDB)|
+|[NodeJS](https://aishan224.github.io/my_notion_test/#/DOCS/NodeJS)|
