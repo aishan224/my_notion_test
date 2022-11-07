@@ -4,7 +4,7 @@
 
 尝试在这里记录一些学习笔记
 
-## 目录
+## 内容导航
 |目录 | 
 |-----|
 |[HTML](https://aishan224.github.io/my_notion_test/#/DOCS/HTML)|
