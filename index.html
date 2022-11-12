@@ -96,6 +96,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
 <script>
   const gitalk = new Gitalk({
     clientID: 'e031efb1b8a5d3a2f810',
@@ -114,6 +115,7 @@
         location.reload()
       }
     }
+  gitalk.render('gitalk-container')
 </script> -->
 
 <!-- <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
