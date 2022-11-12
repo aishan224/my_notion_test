@@ -69,7 +69,25 @@
       "HTML-CSS": { fonts: ["TeX"] }
     });
   </script> -->
-  
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'e031efb1b8a5d3a2f810',
+      clientSecret: 'd7692da85fbb8f81b203e451e83531ff82521f27',
+      repo: 'my_notion_test',
+      owner: 'aishan224',
+      admin: ['aishan224'],
+      title: location.hash.match(/#(.*?)([?]|$)/)[1], // 这个是设置 issue 对应的标题
+      id: location.hash.match(/#(.*?)([?]|$)/)[1],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+    // 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
+    window.onhashchange = function(event){
+        if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
+          location.reload()
+        }
+      }
+  </script> -->
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script> -->
 
   <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex/dist/docsify-katex.js"></script> -->
