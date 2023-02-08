@@ -75,7 +75,25 @@ head标签里面通过`link`标签和`href`引入样式文件`.css`，JavaScript
 
 例如：
 
+```html
+<form>
+    <label for="userID">账户：</label>
+    <input type="text" name="账号", id="userID">
+    <br>
+    <label for="password">密码：</label>
+    <input type="password" name="密码", id="password">
+  </form>
+```
 
+通过在`label`标签里面加上`for`（里面填上对应`input`的`id`）即可实现`label`与`input`的“绑定”，效果如下：
+
+<form>
+    <label for="userID">账户：</label>
+    <input type="text" name="账号", id="userID">
+    <br>
+    <label for="password">密码：</label>
+    <input type="password" name="密码", id="password">
+  </form>
 
 
 
