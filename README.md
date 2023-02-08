@@ -4,7 +4,7 @@
 >
 >本文链接：https://aishan224.github.io/my_notion_test/
 
-尝试在这里记录一些学习笔记
+尝试在这里记录一些学习笔记，**每页下面的Gtalk似乎要再刷新一次才出来，很奇怪**
 
 行内公式 $a = \frac{b}{cddd}$
 
